@@ -1,16 +1,10 @@
-# fortune
+# CHATGPT 만을 사용해 만든 포춘쿠키와 로또 추천 앱
 
-A new Flutter project.
+## 설명
+포춘 쿠키 와 로또 번호 앱은 랜덤한 로또 번호와 포춘 쿠키를 제공하는 앱입니다.
+포춘 쿠키를 터치하여 로또 번호와 특별한 메시지를 확인하고, 기록에 저장하여 나중에 확인할 수 있습니다.
 
-## Getting Started
+### 앱 화면
+![7](https://github.com/woojin7879/FortuneApp/assets/38205047/bfd04708-8b26-4c1b-8d14-4aded7e9808a)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 프로젝트 설명 링크
