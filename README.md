@@ -8,3 +8,4 @@
 ![7](https://github.com/woojin7879/FortuneApp/assets/38205047/bfd04708-8b26-4c1b-8d14-4aded7e9808a)
 
 ## 프로젝트 설명 링크
+https://blog.naver.com/wjddnwls513/223103120525
